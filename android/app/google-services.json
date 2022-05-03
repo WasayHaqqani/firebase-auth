@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414291212325",
+    "project_id": "react-native-authenticat-1badf",
+    "storage_bucket": "react-native-authenticat-1badf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414291212325:android:44700b93086d70a96f67cc",
+        "android_client_info": {
+          "package_name": "com.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414291212325-j1t3h6h5orjsfkhfskt4df94e6apchj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHJ9j5uL8hcxoTzvEN6LVMhwKkSLLUS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414291212325-j1t3h6h5orjsfkhfskt4df94e6apchj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
